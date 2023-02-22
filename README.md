@@ -1,0 +1,1 @@
+An admin dashboard with html and plain css
